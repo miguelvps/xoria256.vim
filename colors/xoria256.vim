@@ -65,7 +65,7 @@ hi Underlined   ctermfg=39  guifg=#00afff                           cterm=underl
 hi VertSplit    ctermfg=239 guifg=#4e4e4e ctermbg=239 guibg=#4e4e4e cterm=none gui=none
 " hi VIsualNOS    ctermfg=24  guifg=#005f87 ctermbg=153 guibg=#afdfff cterm=none gui=none
 " hi Visual       ctermfg=24  guifg=#005f87 ctermbg=153 guibg=#afdfff
-hi Visual       ctermfg=255 guifg=#eeeeee ctermbg=96  guibg=#5f875f
+hi Visual       ctermfg=255 guifg=#eeeeee ctermbg=65  guibg=#5f875f
 hi VisualNOS    ctermfg=255 guifg=#eeeeee ctermbg=60  guibg=#5f5f87
 hi WildMenu     ctermfg=0   guifg=#000000 ctermbg=150 guibg=#afdf87 cterm=bold gui=bold
 
