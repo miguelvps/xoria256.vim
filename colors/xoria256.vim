@@ -50,7 +50,7 @@ hi PmenuSbar                              ctermbg=243 guibg=#767676
 hi PmenuSel     ctermfg=0   guifg=#000000 ctermbg=243 guibg=#767676
 hi PmenuThumb                             ctermbg=252 guibg=#d0d0d0
 hi Search       ctermfg=0   guifg=#000000 ctermbg=149 guibg=#afdf5f
-hi SignColumn   ctermfg=248 guifg=#a8a8a8
+hi SignColumn   ctermfg=248 guifg=#a8a8a8 ctermbg=234 guibg=#1c1c1c
 hi SpecialKey   ctermfg=247 guifg=#9e9e9e
 hi SpellBad     ctermfg=160 guifg=fg      ctermbg=bg                cterm=underline               guisp=#df0000
 hi SpellCap     ctermfg=189 guifg=#d0d0ff ctermbg=bg  guibg=bg      cterm=underline gui=underline 
